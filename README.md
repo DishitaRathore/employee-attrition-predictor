@@ -1,6 +1,7 @@
 ## Employee Attrition Predictor
 
 This project builds an end-to-end Machine Learning web application to predict employee attrition using Python and Streamlit. The model is trained on the IBM HR Analytics dataset to identify key factors that contribute to employee turnover, such as income, age, and overtime.
+- Live Demo On Hugging Face : https://huggingface.co/spaces/Dishita08/employee-attrition-predictor
 
 ### Features
 
